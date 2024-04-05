@@ -1,0 +1,10 @@
+C:\Users\drent\source\repos\C-sharp\5e Diagnostische test C#\5e Diagnostische test C#\obj\Debug\5e Diagnostische test C#.csproj.AssemblyReference.cache
+C:\Users\drent\source\repos\C-sharp\5e Diagnostische test C#\5e Diagnostische test C#\obj\Debug\_5e_Diagnostische_test_C_.Form1.resources
+C:\Users\drent\source\repos\C-sharp\5e Diagnostische test C#\5e Diagnostische test C#\obj\Debug\_5e_Diagnostische_test_C_.Properties.Resources.resources
+C:\Users\drent\source\repos\C-sharp\5e Diagnostische test C#\5e Diagnostische test C#\obj\Debug\5e Diagnostische test C#.csproj.GenerateResource.cache
+C:\Users\drent\source\repos\C-sharp\5e Diagnostische test C#\5e Diagnostische test C#\obj\Debug\5e Diagnostische test C#.csproj.CoreCompileInputs.cache
+C:\Users\drent\source\repos\C-sharp\5e Diagnostische test C#\5e Diagnostische test C#\bin\Debug\5e Diagnostische test C#.exe.config
+C:\Users\drent\source\repos\C-sharp\5e Diagnostische test C#\5e Diagnostische test C#\bin\Debug\5e Diagnostische test C#.exe
+C:\Users\drent\source\repos\C-sharp\5e Diagnostische test C#\5e Diagnostische test C#\bin\Debug\5e Diagnostische test C#.pdb
+C:\Users\drent\source\repos\C-sharp\5e Diagnostische test C#\5e Diagnostische test C#\obj\Debug\5e Diagnostische test C#.exe
+C:\Users\drent\source\repos\C-sharp\5e Diagnostische test C#\5e Diagnostische test C#\obj\Debug\5e Diagnostische test C#.pdb
